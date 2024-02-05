@@ -26,3 +26,4 @@ function mileToKm(mile){
 }
 const kilo =mileToKm(290);
 console.log(kilo);
+
